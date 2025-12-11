@@ -1,6 +1,6 @@
 # Assignment Frontend Quiz - Wedding Company
 
-This project is a frontend assignment for a quiz application tailored for a wedding company. It is built using **Next.js**, **TypeScript**, **TailwindCSS**, and other modern web development tools. It is deployed publicly and can be visible at 
+This project is a frontend assignment for a quiz application tailored for a wedding company. It is built using **Next.js**, **TypeScript**, **TailwindCSS**, and other modern web development tools. It is deployed publicly and can be visible at [quiz-wedding-company.vercel.app](https://quiz-wedding-company.vercel.app/)
 
 ## Features
 
