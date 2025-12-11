@@ -10,6 +10,30 @@ This project is a frontend assignment for a quiz application tailored for a wedd
 - TailwindCSS for styling and utility-first design.
 - TypeScript for type safety and better developer experience.
 
+## Key Features Implemented
+
+- Fully functional quiz interface with multiple-choice questions.
+- Dynamic progress bar to indicate quiz completion.
+- Responsive design for mobile, tablet, and desktop devices.
+- Light and dark theme support.
+- Custom animations for quiz transitions and interactions.
+- Form validation using React Hook Form and Zod.
+- Accessible UI components using Radix UI.
+
+## Assumptions Made
+
+- The quiz consists of multiple-choice questions only.
+- Users can navigate through questions sequentially.
+- The application does not require backend integration for quiz data.
+- The design follows a minimalistic and modern approach.
+
+## Time Spent on the Assignment
+
+- Approximately **11 hours** were spent on the assignment, including:
+  - **3 hours** for setting up the project and configuring dependencies.
+  - **5 hours** for implementing the quiz functionality and UI components.
+  - **3 hours** for styling, animations, and testing.
+
 ## Prerequisites
 
 Ensure you have the following installed:
@@ -49,7 +73,6 @@ npm build
 ```
 
 The output will be available in the `.next` directory.
-
 
 ## File Structure
 
